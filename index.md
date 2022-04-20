@@ -2,7 +2,7 @@
 
 [SONY](SONY.TXT)
 
-<details><summary>CLICK ME</summary>
+<details><summary>SONY</summary>
 <p>
 
 #### We can hide anything, even code!
