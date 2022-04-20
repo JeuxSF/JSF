@@ -7,8 +7,7 @@
 
 #### We can hide anything, even code!
 
-    ```ruby
-      puts "Hello World"
+    ```THE GETAWAY
     ```
 
 </p>
