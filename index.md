@@ -1,6 +1,6 @@
 ## Welcome to jEUX SANS FRONTIERES
 
-[Contribution guidelines for this project](docs/SONY.md)
+[SONY](docs/SONY)
 
 You can use the [editor on GitHub](https://github.com/JeuxSF/JSF/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
