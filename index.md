@@ -7,8 +7,7 @@
 
 #### We can hide anything, even code!
 
-    ```THE GETAWAY
-    ```
+    ►the Getaway
 
 </p>
 </details>
