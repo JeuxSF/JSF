@@ -5,8 +5,6 @@
 <details><summary>SONY</summary>
 <p>
 
-#### We can hide anything, even code!
-
     ►the Getaway
 
 </p>
