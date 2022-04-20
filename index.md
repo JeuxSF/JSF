@@ -7,7 +7,7 @@
 
     ►the Getaway
     
-    [1.0►the Getaway #PS2](https://www.reddit.com/r/emulation/comments/u6a7tu/xbox_360ps3_emulation_and_the_end_of_history/)
+    [1.0►the Getaway #PS2] https://www.reddit.com/r/emulation/comments/u6a7tu/xbox_360ps3_emulation_and_the_end_of_history/
     
     (https://ouo.io/98iao8)
     
