@@ -7,6 +7,8 @@
 
     ►the Getaway
     
+    [Lets go to Quora](https://www.quora.com)
+    
     
     
     1.0►the Getaway #PS2 https://www.reddit.com
