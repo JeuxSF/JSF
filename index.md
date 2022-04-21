@@ -1,4 +1,4 @@
-JEUX SANS FRONTIERES
+Jeux Sans Frontières
 
 No platforms. No DRM. Just Jeux!
 
