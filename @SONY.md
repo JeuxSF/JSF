@@ -33,8 +33,18 @@ permalink: https://jeuxsf.github.io/JSF/sony/
 ![Cover](https://www.mobygames.com/images/covers/s/274978-demon-s-souls-playstation-3-front-cover.jpg)
 [Demon's Souls™ #PS3](https://ouo.io/e9VJXn)
 
+[Downhill DOMINATION™ #PS2]()
+
 ![Cover](https://www.mobygames.com/images/covers/s/129602-heavenly-sword-playstation-3-front-cover.jpg)
 [HEAVENLY SWORD™ #PS3](https://ouo.io/a4Fk9A)
 
 [HORIZON ZERO DAWN™ COMPLETE EDITION #PC]()
+
+[JET LI RISE TO HONOR™ #PS2]()
+
+[LAIR #PS3]()
+
+[PUPPETEER #PS3]()
+
+[rain™ #PS3]()
 
