@@ -11,7 +11,7 @@ permalink: https://jeuxsf.github.io/JSF/sony/
 
 -->
 
-[@GOD OF WAR™]()
+[@GOD OF WAR™](godofwar.md)
 
 [@inFAMOUS™]()
 
