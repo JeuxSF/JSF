@@ -27,7 +27,7 @@ permalink: https://jeuxsf.github.io/JSF/sony/
 
 [►WARHAWK™]()
 
-![Cover](https://www.mobygames.com/images/covers/s/554608-days-gone-playstation-4-front-cover.jpg)
+![Cover](https://www.mobygames.com/images/covers/l/739516-days-gone-windows-front-cover.jpg)
 [DAYS GONE #PC]()
 
 ![Cover](https://www.mobygames.com/images/covers/s/274978-demon-s-souls-playstation-3-front-cover.jpg)
