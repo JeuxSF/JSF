@@ -39,7 +39,7 @@ permalink: https://jeuxsf.github.io/JSF/sony/
 
 [Downhill DOMINATION™ #PS2]()
 
-![Cover](https://www.mobygames.com/images/covers/s/129602-heavenly-sword-playstation-3-front-cover.jpg)
+![Cover](https://www.mobygames.com/images/covers/l/129602-heavenly-sword-playstation-3-front-cover.jpg)
 
 [HEAVENLY SWORD™ #PS3](https://ouo.io/a4Fk9A)
 
