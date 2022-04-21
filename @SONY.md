@@ -47,7 +47,7 @@ permalink: https://jeuxsf.github.io/JSF/sony/
 
 [HORIZON ZERO DAWN™ COMPLETE EDITION #PC]()
 
-![Cover](https://www.mobygames.com/images/covers/s/38227-rise-to-honor-playstation-2-front-cover.jpg)
+![Cover](https://www.mobygames.com/images/covers/l/38227-rise-to-honor-playstation-2-front-cover.jpg)
 
 [JET LI RISE TO HONOR™ #PS2]()
 
@@ -55,11 +55,11 @@ permalink: https://jeuxsf.github.io/JSF/sony/
 
 [LAIR #PS3]()
 
-![Cover](https://www.mobygames.com/images/covers/s/290125-puppeteer-playstation-3-front-cover.jpg)
+![Cover](https://www.mobygames.com/images/covers/l/290125-puppeteer-playstation-3-front-cover.jpg)
 
 [PUPPETEER #PS3]()
 
-![Cover](https://www.mobygames.com/images/covers/s/304789-rain-playstation-3-front-cover.jpg)
+![Cover](https://www.mobygames.com/images/covers/l/304789-rain-playstation-3-front-cover.jpg)
 
 [rain™ #PS3]()
 
