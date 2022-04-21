@@ -17,5 +17,4 @@ permalink: https://jeuxsf.github.io/JSF/sony/theGetaway/
 
 
 1.0►the Getaway #PS2
-
-2.0►the Getaway Black Monday #PS2
+ 2.0►the Getaway Black Monday #PS2
