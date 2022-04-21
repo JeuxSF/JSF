@@ -43,7 +43,7 @@ permalink: https://jeuxsf.github.io/JSF/sony/
 
 [HEAVENLY SWORD™ #PS3](https://ouo.io/a4Fk9A)
 
-![Cover](https://www.mobygames.com/images/covers/s/677031-horizon-zero-dawn-complete-edition-windows-front-cover.jpg)
+![Cover](https://www.mobygames.com/images/covers/l/677031-horizon-zero-dawn-complete-edition-windows-front-cover.jpg)
 
 [HORIZON ZERO DAWN™ COMPLETE EDITION #PC]()
 
