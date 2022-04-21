@@ -4,28 +4,6 @@ No platforms. No DRM. Just Jeux!
 
 [SONY](@SONY.md)
 
-<details><summary>SONY</summary>
-<p>
-
-    ►the Getaway
-    
-    [Lets go to Quora](https://www.quora.com)
-    
-    
-    
-    1.0►the Getaway #PS2 https://www.reddit.com
-    
-    [Link](https://ouo.io/98iao8)
-    
-    
-    
-    ►WARHAWK™
-
-</p>
-</details>
-
-[Link](https://ouo.io/98iao8)
-
 You can use the [editor on GitHub](https://github.com/JeuxSF/JSF/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
