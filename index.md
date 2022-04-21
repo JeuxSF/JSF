@@ -13,7 +13,7 @@
     
     1.0►the Getaway #PS2 https://www.reddit.com
     
-    (https://ouo.io/98iao8)
+    [Link](https://ouo.io/98iao8)
     
     
     
