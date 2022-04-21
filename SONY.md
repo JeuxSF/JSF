@@ -1,7 +1,7 @@
 
 layout: page
 title: "PAGE TITLE"
-permalink: https://jeuxsf.github.io/JSF/sony
+permalink: https://jeuxsf.github.io/JSF/sony/
 
 
 
