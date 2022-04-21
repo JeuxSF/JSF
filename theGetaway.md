@@ -16,5 +16,4 @@ permalink: https://jeuxsf.github.io/JSF/sony/theGetaway/
 [1.0►the Getaway #PS2](https://ouo.io/3ouE3q)
 
 ![Cover](https://www.mobygames.com/images/covers/l/81617-the-getaway-black-monday-playstation-2-front-cover.jpg)
-
 [2.0►the Getaway Black Monday #PS2](https://ouo.io/NFq15X)
