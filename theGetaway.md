@@ -12,7 +12,7 @@ permalink: https://jeuxsf.github.io/JSF/sony/theGetaway/
 -->
 
 
-![https://www.mobygames.com/images/covers/l/18208-the-getaway-playstation-2-front-cover.jpg](src)
+![Cover](https://www.mobygames.com/images/covers/l/18208-the-getaway-playstation-2-front-cover.jpg)
 
 https://www.mobygames.com/images/covers/l/18208-the-getaway-playstation-2-front-cover.jpg
 
