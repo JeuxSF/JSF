@@ -12,12 +12,11 @@ permalink: https://jeuxsf.github.io/JSF/sony/
 -->
 
 
-sony testing
+►the Getaway
 
-<details><summary>SONY</summary>
-<p>
-
-    ►the Getaway
+100. First list item
+     - First nested list item
+       - Second nested list item
     
     [Lets go to Quora](https://www.quora.com)
     
