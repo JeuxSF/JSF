@@ -1,6 +1,6 @@
 ## Welcome to jEUX SANS FRONTIERES
 
-[SONY](https://github.com/JeuxSF/JSF/blob/gh-pages/SONY.md)
+[SONY](/SONY)
 
 <details><summary>SONY</summary>
 <p>
