@@ -1,6 +1,6 @@
 ## Welcome to jEUX SANS FRONTIERES
 
-[SONY](SONY)
+[SONY](SONY.MD)
 
 <details><summary>SONY</summary>
 <p>
