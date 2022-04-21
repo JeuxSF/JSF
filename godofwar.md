@@ -2,8 +2,8 @@
 
 <details>
 <summary>layout: page
-title: "the Getaway"
-permalink: https://jeuxsf.github.io/JSF/sony/godofwar/
+title: "God of War"
+permalink: https://jeuxsf.github.io/JSF/@sony/godofwar/
 
 </details>
   
