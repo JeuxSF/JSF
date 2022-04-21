@@ -1,6 +1,6 @@
 
 layout: page
-title: "PAGE TITLE"
+title: "PAGE SONY"
 permalink: https://jeuxsf.github.io/JSF/sony/
 
 
