@@ -3,7 +3,7 @@
 <details>
 <summary>layout: page
 title: "God of War"
-permalink: https://jeuxsf.github.io/JSF/sony/godofwar/
+permalink: https://jeuxsf.github.io/JSF/@sony/godofwar/
 
 </details>
   
