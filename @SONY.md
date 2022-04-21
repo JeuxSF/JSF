@@ -12,12 +12,19 @@ permalink: https://jeuxsf.github.io/JSF/sony/
 -->
 
 [@GOD OF WAR™]()
+
 [@inFAMOUS™]()
+
 [@JAK AND DAXTER™]()
+
 [@RESISTANCE]()
+
 [@SLY COOPER]()
+
 [@UNCHARTED]()
+
 [►the Getaway](theGetaway.md)
+
 [►WARHAWK™]()
 
 [DAYS GONE #PC]()
