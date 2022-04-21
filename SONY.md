@@ -13,3 +13,16 @@ permalink: https://jeuxsf.github.io/JSF/sony/
 
 
 sony testing
+
+<details><summary>SONY</summary>
+<p>
+
+    ►the Getaway
+    
+    [Lets go to Quora](https://www.quora.com)
+    
+    
+    
+    1.0►the Getaway #PS2 https://www.reddit.com
+    
+    [Link](https://ouo.io/98iao8)
