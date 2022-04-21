@@ -12,7 +12,7 @@ permalink: https://jeuxsf.github.io/JSF/sony/
 -->
 
 
-[►the Getaway](theGetaway)
+[►the Getaway](theGetaway.md)
 
 100. First list item
      - First nested list item
