@@ -35,5 +35,5 @@ permalink: https://jeuxsf.github.io/JSF/sony/godofwar/
 ![Cover](https://www.mobygames.com/images/covers/l/371714-god-of-war-ascension-playstation-3-front-cover.png)
 [8.00►GOD OF WAR ASCENSION™ #PS3](https://ouo.io/NFq15X)
 
-![Cover](hhttps://www.mobygames.com/images/covers/l/501232-god-of-war-playstation-4-front-cover.jpg)
+![Cover](https://www.mobygames.com/images/covers/l/474565-god-of-war-playstation-4-front-cover.png)
 [9.10►GOD OF WAR™ #PC]()
