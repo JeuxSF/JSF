@@ -13,6 +13,8 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/
 
 [@MARIO](mario.md)
 
+[@SUPER SMASH BROS.™](supersmashbros.md)
+
 ![Cover]()
 []()
 
