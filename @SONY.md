@@ -29,9 +29,9 @@ permalink: https://jeuxsf.github.io/JSF/sony/
 
 [►WARHAWK™]()
 
-![Cover](https://www.mobygames.com/images/covers/l/705897-days-gone-playstation-4-front-cover.png)
+![DAYS GONE](https://www.mobygames.com/images/covers/l/705897-days-gone-playstation-4-front-cover.png)
 
-DAYS GONE [#PS4]() [#PC]()
+[#PS4]() [#PC]()
 
 ![Cover](https://www.mobygames.com/images/covers/l/670843-demon-s-souls-playstation-3-front-cover.jpg)
 [Demon's Souls™ #PS3](https://ouo.io/e9VJXn)
@@ -41,10 +41,6 @@ DAYS GONE [#PS4]() [#PC]()
 
 ![Cover](https://www.mobygames.com/images/covers/l/129602-heavenly-sword-playstation-3-front-cover.jpg)
 [HEAVENLY SWORD™ #PS3](https://ouo.io/a4Fk9A)
-
-![Cover](https://www.mobygames.com/images/covers/l/382820-horizon-zero-dawn-playstation-4-front-cover.png)
-
-HORIZON ZERO DAWN™ [#PS4]() [#PC]()
 
 ![Cover](https://www.mobygames.com/images/covers/l/38227-rise-to-honor-playstation-2-front-cover.jpg)
 [JET LI RISE TO HONOR™ #PS2](https://ouo.io/iMfBQz)
