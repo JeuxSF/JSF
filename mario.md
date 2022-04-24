@@ -21,7 +21,7 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/mario
 
 [►&LUIGI™](mario&luigi.md)
 
-[►vs. DONKEY KONG™](vsdk.md)
+[►vs. DONKEY KONG™](mariovsdk.md)
 
 ![Cover]()
 []()
