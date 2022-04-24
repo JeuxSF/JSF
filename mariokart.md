@@ -35,8 +35,5 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/mariokart/
 ![MARIO KART 8™](https://www.mobygames.com/images/covers/l/285423-mario-kart-8-wii-u-front-cover.jpg)
 [#WiiU]() [#NS]()
 
-![Cover]()
-[]()
-
-![Cover]()
-[]()
+![13.0►MARIO KART LIVE HOME CIRCUIT™ #NS](https://www.mobygames.com/images/covers/l/689613-mario-kart-live-home-circuit-nintendo-switch-front-cover.jpg)
+[#NS]()
