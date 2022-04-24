@@ -21,7 +21,7 @@ permalink: https://jeuxsf.github.io/JSF/sony/
 
 [@RESISTANCE](resistance.md)
 
-[@SLY COOPER]()
+[@SLY COOPER](slycooper.md)
 
 [@UNCHARTED]()
 
