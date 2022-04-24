@@ -27,7 +27,7 @@ permalink: https://jeuxsf.github.io/JSF/sony/
 
 [►WARHAWK™]()
 
-![Cover](https://www.mobygames.com/images/covers/l/739516-days-gone-windows-front-cover.jpg)
+![Cover](https://www.mobygames.com/images/covers/l/705897-days-gone-playstation-4-front-cover.png)
 
 [DAYS GONE #PS4]()
 
@@ -42,7 +42,7 @@ permalink: https://jeuxsf.github.io/JSF/sony/
 ![Cover](https://www.mobygames.com/images/covers/l/129602-heavenly-sword-playstation-3-front-cover.jpg)
 [HEAVENLY SWORD™ #PS3](https://ouo.io/a4Fk9A)
 
-![Cover](https://www.mobygames.com/images/covers/l/677031-horizon-zero-dawn-complete-edition-windows-front-cover.jpg)
+![Cover](https://www.mobygames.com/images/covers/l/382820-horizon-zero-dawn-playstation-4-front-cover.png)
 
 [HORIZON ZERO DAWN™ #PS4]()
 
