@@ -19,7 +19,7 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/mario
 
 [@SPORTS]()
 
-[►&LUIGI]()
+[►&LUIGI™]()
 
 [►vs. DONKEY KONG]()
 
