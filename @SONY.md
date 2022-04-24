@@ -25,7 +25,7 @@ permalink: https://jeuxsf.github.io/JSF/sony/
 
 [@UNCHARTED]()
 
-[►the Getaway](theGetaway.md)
+[►the Getaway](thegetaway.md)
 
 [►WARHAWK™]()
 
