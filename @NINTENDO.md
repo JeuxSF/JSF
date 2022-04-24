@@ -11,6 +11,8 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/
 
 -->
 
+@MARIO()
+
 ![Cover]()
 []()
 
