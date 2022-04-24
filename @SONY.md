@@ -29,9 +29,7 @@ permalink: https://jeuxsf.github.io/JSF/sony/
 
 ![Cover](https://www.mobygames.com/images/covers/l/705897-days-gone-playstation-4-front-cover.png)
 
-[DAYS GONE #PS4]()
-
-[DAYS GONE #PC]()
+DAYS GONE[#PS4]()[#PC]()
 
 ![Cover](https://www.mobygames.com/images/covers/l/670843-demon-s-souls-playstation-3-front-cover.jpg)
 [Demon's Souls™ #PS3](https://ouo.io/e9VJXn)
