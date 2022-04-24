@@ -13,6 +13,16 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/mario
 
 [@KART](mariokart.md)
 
+[@PAPER]()
+
+[@PARTY]()
+
+[@SPORTS]()
+
+[►&LUIGI]()
+
+[►vs. DONKEY KONG]()
+
 ![Cover]()
 []()
 
