@@ -21,7 +21,6 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/mariovsdk/
 #DSi
 
 ![4.0►MARIO vs. DONKEY KONG™ ▪MINI-LAND MAYHEM!▪ #NDS](https://www.mobygames.com/images/covers/l/215432-mario-vs-donkey-kong-mini-land-mayhem-nintendo-ds-front-cover.png)
-)
 [#NDS]()
 
 ![5.0►MARIO AND DONKEY KONG™ MINIS ON THE MOVE #3DS](https://www.mobygames.com/images/covers/l/497244-mario-and-donkey-kong-minis-on-the-move-nintendo-3ds-front-cover.jpg)
