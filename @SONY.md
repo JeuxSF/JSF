@@ -19,7 +19,7 @@ permalink: https://jeuxsf.github.io/JSF/sony/
 
 [@JAK AND DAXTER™]()
 
-[@RESISTANCE]()
+[@RESISTANCE](resistance.md)
 
 [@SLY COOPER]()
 
