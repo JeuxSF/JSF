@@ -13,7 +13,7 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/mario
 
 [@KART](mariokart.md)
 
-[@PAPER]()
+[@PAPER](papermario.md)
 
 [@PARTY]()
 
