@@ -15,7 +15,7 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/mario
 
 [@PAPER](papermario.md)
 
-[@PARTY]()
+[@PARTY](marioparty.md)
 
 [@SPORTS]()
 
