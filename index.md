@@ -4,6 +4,6 @@ No platforms. No DRM. Just Jeux!
 
 [MICROSOFT](@SONY.md)
 
-[NINTENDO](@NINTEN.md)
+[NINTENDO](@NINTENDO.md)
 
 [SONY](@SONY.md)
