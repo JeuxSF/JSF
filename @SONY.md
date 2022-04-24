@@ -30,6 +30,7 @@ permalink: https://jeuxsf.github.io/JSF/sony/
 ![Cover](https://www.mobygames.com/images/covers/l/705897-days-gone-playstation-4-front-cover.png)
 
 [DAYS GONE #PS4]()
+
 [DAYS GONE #PC]()
 
 ![Cover](https://www.mobygames.com/images/covers/l/670843-demon-s-souls-playstation-3-front-cover.jpg)
@@ -44,6 +45,7 @@ permalink: https://jeuxsf.github.io/JSF/sony/
 ![Cover](https://www.mobygames.com/images/covers/l/382820-horizon-zero-dawn-playstation-4-front-cover.png)
 
 [HORIZON ZERO DAWN™ #PS4]()
+
 [HORIZON ZERO DAWN™ COMPLETE EDITION #PC]()
 
 ![Cover](https://www.mobygames.com/images/covers/l/38227-rise-to-honor-playstation-2-front-cover.jpg)
