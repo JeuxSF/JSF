@@ -17,7 +17,7 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/mario
 
 [@PARTY](marioparty.md)
 
-[@SPORTS]()
+[@SPORTS](mariosports.md)
 
 [►&LUIGI™](mario&luigi.md)
 
