@@ -11,7 +11,7 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/mariokart/
 
 -->
 
-[1.00►SUPER MARIO KART™ #SNES](https://www.mobygames.com/images/covers/l/68919-super-mario-kart-snes-front-cover.jpg)
+![1.00►SUPER MARIO KART™ #SNES](https://www.mobygames.com/images/covers/l/68919-super-mario-kart-snes-front-cover.jpg)
 [#SNES/#Wii/#3DS/#WiiU]()
 
 ![2.00►MARIo KART 64™ #N64](https://www.mobygames.com/images/covers/l/7708-mario-kart-64-nintendo-64-front-cover.jpg)
