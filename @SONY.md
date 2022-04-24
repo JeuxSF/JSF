@@ -13,6 +13,8 @@ permalink: https://jeuxsf.github.io/JSF/sony/
 
 [@GOD OF WAR™](godofwar.md)
 
+[HORIZON](horizon.md)
+
 [@inFAMOUS™]()
 
 [@JAK AND DAXTER™]()
