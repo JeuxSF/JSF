@@ -15,6 +15,8 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/
 
 [@SUPER SMASH BROS.™](supersmashbros.md)
 
+[►Luigi's Mansion™](luigimansion.md)
+
 ![Cover]()
 []()
 
