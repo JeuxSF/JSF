@@ -15,7 +15,7 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/mariogolf/
 [#NES/#Wii/#3DS/#WiiU]()
 
 ![3.00►MARIo GoLF™ #N64](https://www.mobygames.com/images/covers/l/13506-mario-golf-nintendo-64-front-cover.jpg)
-[#N64/#Wii#WiiU]()
+[#N64/#Wii/#WiiU]()
 
 ![3.10►MARIo GoLF™ #GBC](https://www.mobygames.com/images/covers/l/64182-mario-golf-game-boy-color-front-cover.jpg)
 [#GBC/#3DS]()
