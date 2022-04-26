@@ -11,7 +11,7 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/mario
 
 -->
 
-[@&SONIC](mario&sonic.md)
+[@&SONIC](@mario&sonic.md)
 
 [@KART](@mariokart.md)
 
