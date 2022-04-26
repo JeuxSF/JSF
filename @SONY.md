@@ -19,7 +19,7 @@ permalink: https://jeuxsf.github.io/JSF/sony/
 
 [@JAK AND DAXTER™](@jakdaxter.md)
 
-[@KILLZONE™](killzone.md)
+[@KILLZONE™](killlzone.md)
 
 [@RESISTANCE](@resistance.md)
 
