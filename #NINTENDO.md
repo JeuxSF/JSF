@@ -11,11 +11,11 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/
 
 -->
 
-[@MARIO](mario.md)
+[@MARIO](@mario.md)
 
-[@SUPER SMASH BROS.™](supersmashbros.md)
+[@SUPER SMASH BROS.™](@supersmashbros.md)
 
-[►Luigi's Mansion™](luigimansion.md)
+[►Luigi's Mansion™](►luigimansion.md)
 
 ![Cover]()
 []()
