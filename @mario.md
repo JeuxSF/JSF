@@ -11,8 +11,6 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/mario
 
 -->
 
-[@GOLF](@mariogolf.md)
-
 [@KART](@mariokart.md)
 
 [@PAPER](@papermario.md)
