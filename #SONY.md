@@ -11,23 +11,23 @@ permalink: https://jeuxsf.github.io/JSF/sony/
 
 -->
 
-[@GOD OF WAR™](godofwar.md)
+[@GOD OF WAR™](@godofwar.md)
 
-[@HORIZON](horizon.md)
+[@HORIZON](@horizon.md)
 
-[@inFAMOUS™]()
+[@inFAMOUS™](@infamous.md)
 
-[@JAK AND DAXTER™]()
+[@JAK AND DAXTER™](@jakdaxter.md)
 
-[@RESISTANCE](resistance.md)
+[@RESISTANCE](@resistance.md)
 
-[@SLY COOPER](slycooper.md)
+[@SLY COOPER](@slycooper.md)
 
-[@UNCHARTED]()
+[@UNCHARTED](@uncharted.md)
 
-[►the Getaway](thegetaway.md)
+[►the Getaway](►thegetaway.md)
 
-[►WARHAWK™](warhawk.md)
+[►WARHAWK™](►warhawk.md)
 
 ![DAYS GONE](https://www.mobygames.com/images/covers/l/705897-days-gone-playstation-4-front-cover.png)
 
