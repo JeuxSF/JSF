@@ -19,8 +19,6 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/mario
 
 [@SPORTS](@mariosports.md)
 
-[@TENNIS](@mariotennis.md)
-
 [►&LUIGI™](@mario&luigi.md)
 
 [►vs. DONKEY KONG™](@mariovsdk.md)
