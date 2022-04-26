@@ -17,11 +17,11 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/mario
 
 [@PARTY](@marioparty.md)
 
+[@&SONIC](mario&sonic.md)
+
 [@SPORTS](@mariosports.md)
 
 [►&LUIGI™](@mario&luigi.md)
-
-[@&SONIC](mario&sonic.md)
 
 [►vs. DONKEY KONG™](@mariovsdk.md)
 
