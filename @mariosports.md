@@ -11,6 +11,8 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/sports/
 
 -->
 
+[@GOLF](@mariogolf.md)
+
 MARIO SPORTS FESTIVAL
 
 ![2.00►マリオ運動会 Mario Sports Festival #ARCADE](https://mario.wiki.gallery/images/c/c3/Unkurukai.png)
