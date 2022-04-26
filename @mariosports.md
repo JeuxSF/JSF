@@ -11,7 +11,8 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/sports/
 
 -->
 
-MARIO SPORTS FESTIVAL![2.00►マリオ運動会 Mario Sports Festival #ARCADE](https://mario.wiki.gallery/images/c/c3/Unkurukai.png)
+MARIO SPORTS FESTIVAL
+![2.00►マリオ運動会 Mario Sports Festival #ARCADE](https://mario.wiki.gallery/images/c/c3/Unkurukai.png)
 #ARCADE
 
 ![9.00►MARIo SUPERSTAR BASEBALL™ #NGC](https://www.mobygames.com/images/covers/l/64595-mario-superstar-baseball-gamecube-front-cover.jpg)
