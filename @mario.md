@@ -11,17 +11,17 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/mario
 
 -->
 
-[@KART](mariokart.md)
+[@KART](@mariokart.md)
 
-[@PAPER](papermario.md)
+[@PAPER](@papermario.md)
 
-[@PARTY](marioparty.md)
+[@PARTY](@marioparty.md)
 
-[@SPORTS](mariosports.md)
+[@SPORTS](@mariosports.md)
 
-[►&LUIGI™](mario&luigi.md)
+[►&LUIGI™](@mario&luigi.md)
 
-[►vs. DONKEY KONG™](mariovsdk.md)
+[►vs. DONKEY KONG™](@mariovsdk.md)
 
 ![Cover]()
 []()
