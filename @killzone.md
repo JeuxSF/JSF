@@ -24,22 +24,10 @@ permalink: https://jeuxsf.github.io/JSF/sony/killzone/
 [#PS3]()
 
 ![5.0►KILLZONE™ M E R C E N A R Y #VITA](https://www.mobygames.com/images/covers/l/376035-killzone-mercenary-ps-vita-front-cover.png)
-[#VITA]()
+#VITA
 
 ![6.0►KILLZONE™ S H A D O W  F A L L #PS4](https://www.mobygames.com/images/covers/l/272859-killzone-shadow-fall-playstation-4-front-cover.jpg)
-[#PS4]()
+#PS4
 
 ![6.1►KILLZONE™ S H A D O W  F A L L   I  N  T  E  R  C  E  P  T   O  N  L  I  N  E   C  O  O  P   A  C  T  I  O  N #PS4](https://www.mobygames.com/images/covers/l/392839-killzone-shadow-fall-intercept-playstation-4-front-cover.png)
-[#PS4]()
-
-![Cover]()
-[]()
-
-![Cover]()
-[]()
-
-![Cover]()
-[]()
-
-![Cover]()
-[]()
+#PS4
