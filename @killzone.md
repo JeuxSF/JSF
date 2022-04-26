@@ -15,6 +15,7 @@ permalink: https://jeuxsf.github.io/JSF/sony/killzone/
 [#PS2]() [#PS3]()
 
 ![2.0►KILLZONE™ LIBERATION #PSP](https://www.mobygames.com/images/covers/l/149108-killzone-liberation-psp-front-cover.jpg)
+
 [#PSP]()
 
 ![3.0►KILLZONE®2 #PS3](https://www.mobygames.com/images/covers/l/154555-killzone-2-playstation-3-front-cover.jpg)
