@@ -11,9 +11,9 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/sports/
 
 -->
 
-[@GOLF]()
+[@GOLF](mariogolf.md)
 
-[@TENNIS]()
+[@TENNIS](mariotennis.md)
 
 ![Cover]()
 []()
