@@ -1,5 +1,3 @@
-JSF GITHUB TEMP
-
 <!--
 
 <details>
