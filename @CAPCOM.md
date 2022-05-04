@@ -13,7 +13,7 @@ permalink: https://jeuxsf.github.io/JSF/capcom
 
 -->
 
-[@STREET FIGHTER](streetfighter.md)
+[@STREET FIGHTER](@streetfighter.md)
 
 ![Cover]()
 []()
