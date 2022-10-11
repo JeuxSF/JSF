@@ -27,7 +27,7 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/
 [#N64](https://ouo.io/OBA2jT) [#Wii](https://ouo.io/74gbFE) [#WiiU](https://ouo.io/Mf4qTE4)
 
 ![1080°® AVALANCHE](https://www.mobygames.com/images/covers/l/38219-1080-avalanche-gamecube-front-cover.jpg)
-[NGC]()
+[#NGC]()
 
 ![Cover]()
 []()
