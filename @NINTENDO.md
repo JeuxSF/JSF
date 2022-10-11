@@ -23,11 +23,11 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/
 ![ASTRAL CHAIN™](https://www.mobygames.com/images/covers/l/642090-astral-chain-nintendo-switch-front-cover.jpg)
 [#NS](https://ouo.io/dGO717)
 
-![Cover]()
-[]()
+![1080° TenEighty™ SNOWBOARDING](https://www.mobygames.com/images/covers/l/301948-1080-snowboarding-nintendo-64-front-cover.jpg)
+[#N64](https://ouo.io/OBA2jT) [#Wii](https://ouo.io/74gbFE) [#WiiU](https://ouo.io/Mf4qTE4)
 
-![Cover]()
-[]()
+![1080°® AVALANCHE](https://www.mobygames.com/images/covers/l/38219-1080-avalanche-gamecube-front-cover.jpg)
+[NGC]()
 
 ![Cover]()
 []()
