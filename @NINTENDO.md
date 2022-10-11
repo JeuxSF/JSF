@@ -18,10 +18,10 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/
 [►Luigi's Mansion™](@luigimansion.md)
 
 ![ARMS™](https://www.mobygames.com/images/covers/l/642055-arms-nintendo-switch-front-cover.jpg)
-[#NS]()
+[#NS](https://ouo.io/5szN2Os)
 
-![Cover]()
-[]()
+![ASTRAL CHAIN™](https://www.mobygames.com/images/covers/l/642090-astral-chain-nintendo-switch-front-cover.jpg)
+[#NS](https://ouo.io/dGO717)
 
 ![Cover]()
 []()
