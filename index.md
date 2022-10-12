@@ -4,11 +4,11 @@ No platforms. No DRM. Just Jeux!
 
 [!!! ez MU !!!](@EZMU.md)
 
-[!!!     XBOX     !!!](@MICROSOFT.md)
+[!!!     XBOX     !!!](@XBOX.md)
 
 [!!! NINTENDO !!!](@NINTENDO.md)
 
-[!!!     SEGA      !!!]()
+[!!!     SEGA      !!!](@SEGA)
 
 [!!!     SONY     !!!](@SONY.md)
 
