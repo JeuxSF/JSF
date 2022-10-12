@@ -13,7 +13,7 @@ permalink: https://jeuxsf.github.io/JSF/ezMU
 
 2017►Nintendo Switch
 
-[►Ryujinx](https://ouo.io/fWqq5R) [LDN2.5](https://ouo.io/y6G5OK)
+[►Ryujinx](https://ouo.io/fWqq5R) [►LDN2.5](https://ouo.io/y6G5OK)
 
 [►Yuzu EA](https://ouo.io/5L7S1)
 [#Update](https://pineappleea.github.io)
