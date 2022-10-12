@@ -23,3 +23,20 @@ permalink: https://jeuxsf.github.io/JSF/ezMU
 2012►WiiU
 
 [►Cemu](https://ouo.io/y8MzvD)
+
+2012►Vita
+
+[►Vita3K](https://ouo.io/sKlNql)
+
+2010►3DS
+
+[►Citra Canary](https://ouo.io/02HbN0K)
+[#Update](https://citra-emu.org/download/#)
+
+2006►PS3
+
+[►RPCS3](https://ouo.io/DHNXyg)
+
+2006►Wii
+
+
