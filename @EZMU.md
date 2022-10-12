@@ -33,6 +33,9 @@ Vita
 [►Citra](https://ouo.io/02HbN0K)
 [#Update](https://citra-emu.org/download/#)
 
+[►Retroarch 3D](https://ouo.io/OhklFQ)
+[#Update](https://www.retroarch.com/?page=platforms)
+
 PS3
 
 [►RPCS3](https://ouo.io/DHNXyg)
@@ -40,6 +43,9 @@ PS3
 Wii
 
 [►Dolphin](https://ouo.io/4lb1J3l)
+
+[►Retroarch 3D](https://ouo.io/OhklFQ)
+[#Update](https://www.retroarch.com/?page=platforms)
 
 XB360
 
@@ -51,10 +57,16 @@ PSP
 [►PPSSPP](https://ouo.io/ldN4Ku)
 [#Update](https://buildbot.orphis.net/ppsspp/index.php)
 
+[►Retroarch 3D](https://ouo.io/OhklFQ)
+[#Update](https://www.retroarch.com/?page=platforms)
+
 NDS
 
 [►melonDS](https://ouo.io/3waZrF)
 [#Update](https://melonds.kuribo64.net/downloads.php)
+
+[►Retroarch 3D](https://ouo.io/OhklFQ)
+[#Update](https://www.retroarch.com/?page=platforms)
 
 XBOX
 
@@ -67,16 +79,25 @@ NGC
 
 [►Dolphin](https://ouo.io/4lb1J3l)
 
+[►Retroarch 3D](https://ouo.io/OhklFQ)
+[#Update](https://www.retroarch.com/?page=platforms)
+
 GBA
 
 PS2
 
 [►PCSX2](https://ouo.io/i6LQjNM)
 
+[►Retroarch 3D](https://ouo.io/OhklFQ)
+[#Update](https://www.retroarch.com/?page=platforms)
+
 NAOMI
 
 [►Flycast](https://ouo.io/ZsQuA7)
 [#Update](https://flyinghead.github.io/flycast-builds/)
+
+[►Retroarch 3D](https://ouo.io/OhklFQ)
+[#Update](https://www.retroarch.com/?page=platforms)
 
 DC
 
@@ -86,9 +107,15 @@ DC
 [►REDREAM](https://ouo.io/oy6YUzw)
 [#Update](https://redream.io/download)
 
+[►Retroarch 3D](https://ouo.io/OhklFQ)
+[#Update](https://www.retroarch.com/?page=platforms)
+
 GBC
 
 N64
+
+[►Retroarch 3D](https://ouo.io/OhklFQ)
+[#Update](https://www.retroarch.com/?page=platforms)
 
 VB
 
@@ -96,7 +123,13 @@ PS1
 
 [►Duckstation](https://ouo.io/65RADM)
 
+[►Retroarch 3D](https://ouo.io/OhklFQ)
+[#Update](https://www.retroarch.com/?page=platforms)
+
 SS
+
+[►Retroarch 3D](https://ouo.io/OhklFQ)
+[#Update](https://www.retroarch.com/?page=platforms)
 
 SNES
 
