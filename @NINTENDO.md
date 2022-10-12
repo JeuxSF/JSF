@@ -36,7 +36,7 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/
 [**#NGC**](https://ouo.io/UyfQ5A) [►Wii](https://ouo.io/uEvnxQ)
 
 ![C O D E  N A M E ꞉ S.T.E.A.M. STRIKE TEAM ELIMINATING the ALIEN MENACE](https://www.mobygames.com/images/covers/l/687193-code-name-s-t-e-a-m-nintendo-3ds-front-cover.jpg)
-[**3DS**](https://ouo.io/gEA1ja)
+[**#3DS**](https://ouo.io/gEA1ja)
 
 ![Cover]()
 []()
