@@ -19,3 +19,7 @@ permalink: https://jeuxsf.github.io/JSF/ezMU
 
 [►Yuzu EA](https://ouo.io/5L7S1)
 [#Update](https://pineappleea.github.io)
+
+2012►WiiU
+
+[►Cemu](https://ouo.io/y8MzvD)
