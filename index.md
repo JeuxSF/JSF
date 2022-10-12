@@ -4,7 +4,7 @@ No platforms. No DRM. Just Jeux!
 
 [ez MU](@EZMU.md)
 
-[MICROSOFT](@MICROSOFT.md)
+[!!!     XBOX     !!!](@MICROSOFT.md)
 
 [NINTENDO](@NINTENDO.md)
 
