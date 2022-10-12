@@ -20,9 +20,13 @@ Nintendo Switch
 [►Yuzu EA](https://ouo.io/5L7S1)
 [#Update](https://pineappleea.github.io)
 
-[WiiU►Cemu](https://ouo.io/y8MzvD)
+WiiU
 
-[Vita►Vita3K](https://ouo.io/sKlNql)
+[►Cemu](https://ouo.io/y8MzvD)
+
+Vita
+
+[►Vita3K](https://ouo.io/sKlNql)
 
 2010►3DS
 
