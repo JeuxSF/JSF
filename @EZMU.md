@@ -117,6 +117,8 @@ N64
 [►Retroarch 3D](https://ouo.io/OhklFQ)
 [#Update](https://www.retroarch.com/?page=platforms)
 
+[►simple64](https://ouo.io/itIt1z)
+
 VB
 
 PS1
