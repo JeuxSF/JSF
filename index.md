@@ -11,5 +11,3 @@ No platforms. No DRM. Just Jeux!
 [SONY](@SONY.md)
 
 [XBOX](@XBOX.md)
-
-[Firmware Archive](https://darthsternie.net)
