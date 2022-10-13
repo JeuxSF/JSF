@@ -36,14 +36,14 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/
 ![C O D E  N A M E ꞉ S.T.E.A.M. STRIKE TEAM ELIMINATING the ALIEN MENACE](https://www.mobygames.com/images/covers/l/687193-code-name-s-t-e-a-m-nintendo-3ds-front-cover.jpg)
 [**#3DS**](https://ouo.io/gEA1ja)
 
-![Cover]()
-[]()
+![DEVIL'S THIRD™](https://imgur.com/UDEKvBU)
+[**#WiiU**]() ►Win
 
-![Cover]()
-[]()
+![DISASTER DAY OF CRISIS™](https://www.mobygames.com/images/covers/l/168087-disaster-day-of-crisis-wii-front-cover.jpg)
+[►Wii](https://ouo.io/7Kr7v)
 
-![Cover]()
-[]()
+![ETERNAL DARKNESS Sanity's Requiem™](https://www.mobygames.com/images/covers/l/241098-eternal-darkness-sanity-s-requiem-gamecube-front-cover.jpg)
+[**#NGC**](https://ouo.io/DpAr3q)
 
 ![Cover]()
 []()
