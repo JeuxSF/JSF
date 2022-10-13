@@ -11,6 +11,8 @@ permalink: https://jeuxsf.github.io/JSF/ezMU
 
 -->
 
+[Firmware Archive](https://darthsternie.net)
+
 **PC**
 
 **Nintendo Switch**
