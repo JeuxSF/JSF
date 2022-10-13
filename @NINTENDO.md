@@ -13,7 +13,7 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/
 
 [@1080°®](@1080.md)
 
-[@Chibi-Robo!](@Chibi-Robo!.md)
+[@Chibi-Robo!](@chibi-Robo!.md)
 
 [@Cruis'n™](@cruisn.md)
 
@@ -31,9 +31,6 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/
 
 ![CAPTAIN T O A D™ TREASURE TRACKER](https://www.mobygames.com/images/covers/l/645639-captain-toad-treasure-tracker-nintendo-switch-front-cover.jpg)
 [►WiiU](https://ouo.io/nFjLkd) [►3DS](https://ouo.io/jfdIZJ7) [**#NS**](https://ouo.io/6HIzFV)
-
-![Chibi-Robo!™ PLUG INTO ADVENTURE!](https://www.mobygames.com/images/covers/l/59269-chibi-robo-plug-into-adventure-gamecube-front-cover.jpg)
-[**#NGC**](https://ouo.io/UyfQ5A) [►Wii](https://ouo.io/uEvnxQ)
 
 ![C O D E  N A M E ꞉ S.T.E.A.M. STRIKE TEAM ELIMINATING the ALIEN MENACE](https://www.mobygames.com/images/covers/l/687193-code-name-s-t-e-a-m-nintendo-3ds-front-cover.jpg)
 [**#3DS**](https://ouo.io/gEA1ja)
