@@ -17,11 +17,11 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/
 
 [Cruis'n™](@cruisn.md)
 
+[Luigi's Mansion™](@luigimansion.md)
+
 [MARIO](@mario.md)
 
 [SUPER SMASH BROS.™](@supersmashbros.md)
-
-[Luigi's Mansion™](@luigimansion.md)
 
 ![ARMS™](https://www.mobygames.com/images/covers/l/642055-arms-nintendo-switch-front-cover.jpg)
 [**#NS**](https://ouo.io/5szN2Os)
