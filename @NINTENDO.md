@@ -11,7 +11,7 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/
 
 -->
 
-[@1080°®](1080.MD)
+[@1080°®](@1080.MD)
 
 [@Cruis'n™](@cruisn.md)
 
