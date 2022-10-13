@@ -36,7 +36,7 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/
 [►3DS](https://ouo.io/gEA1ja)
 
 ![DEVIL'S THIRD™](https://i.imgur.com/UDEKvBU.jpeg)
-[►WiiU]() ►Win
+[►WiiU]() ►WIN
 
 ![DISASTER DAY OF CRISIS™](https://www.mobygames.com/images/covers/l/168087-disaster-day-of-crisis-wii-front-cover.jpg)
 [►Wii](https://ouo.io/7Kr7v)
