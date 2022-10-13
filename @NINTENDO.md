@@ -13,6 +13,8 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/
 
 [@1080°®](@1080.md)
 
+[@Chibi-Robo!](@Chibi-Robo!.md)
+
 [@Cruis'n™](@cruisn.md)
 
 [@MARIO](@mario.md)
