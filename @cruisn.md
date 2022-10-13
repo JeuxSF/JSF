@@ -12,7 +12,7 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/cruisn/
 -->
 
 ![Cruis'n® U S A](https://www.mobygames.com/images/covers/l/54468-cruis-n-usa-nintendo-64-front-cover.jpg)
-[►ARCADE] [**#N64**](https://ouo.io/VweQaEd) [►Wii](https://ouo.io/tzMgb5)
+[►ARCADE]() [**#N64**](https://ouo.io/VweQaEd) [►Wii](https://ouo.io/tzMgb5)
 
 ![Cruis'n™ WORLD]()
 [►ARCADE]() [►N64]()
