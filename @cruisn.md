@@ -12,13 +12,13 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/cruisn/
 -->
 
 ![Cruis'n® U S A](https://www.mobygames.com/images/covers/l/54468-cruis-n-usa-nintendo-64-front-cover.jpg)
-►ARCADE [**►N64**](https://ouo.io/VweQaEd) [►Wii](https://ouo.io/tzMgb5)
+►ARCADE [►N64](https://ouo.io/VweQaEd) [►Wii](https://ouo.io/tzMgb5)
 
 ![Cruis'n™ WORLD](https://www.mobygames.com/images/covers/l/34497-cruis-n-world-nintendo-64-front-cover.jpg)
 ►ARCADE [►N64](https://ouo.io/mI13FaF)
 
 ![Cruis'n EXOTICA™](https://www.mobygames.com/images/covers/l/17502-cruis-n-exotica-nintendo-64-front-cover.jpg)
-►ARCADE [►N64](https://ouo.io/f1i4HU0) [►GBC]()
+►ARCADE [►N64](https://ouo.io/f1i4HU0) [►GBC](https://ouo.io/yo1IT1)
 
 ![Cruis'n VELOCITY™](https://www.mobygames.com/images/covers/l/134292-cruis-n-velocity-game-boy-advance-front-cover.png)
 [►GBA](https://ouo.io/cj8jk2)
@@ -27,4 +27,4 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/cruisn/
 [►Wii](https://ouo.io/zW66bb8)
 
 ![Cruis'n™ blast](https://www.mobygames.com/images/covers/l/761209-cruis-n-blast-nintendo-switch-front-cover.jpg)
-►ARCADE [**►NS**]()
+►ARCADE [►NS]()
