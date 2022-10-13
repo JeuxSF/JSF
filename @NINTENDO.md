@@ -11,6 +11,8 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/
 
 -->
 
+[@Cruis'n™](cruisn.md)
+
 [@MARIO](@mario.md)
 
 [@SUPER SMASH BROS.™](@supersmashbros.md)
