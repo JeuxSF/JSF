@@ -12,7 +12,7 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/chibi-robo!/
 -->
 
 ![Chibi-Robo!™ PLUG INTO ADVENTURE!](https://www.mobygames.com/images/covers/l/59269-chibi-robo-plug-into-adventure-gamecube-front-cover.jpg)
-[**#NGC**](https://ouo.io/UyfQ5A) [►Wii](https://ouo.io/uEvnxQ)
+[**►NGC**](https://ouo.io/UyfQ5A) [►Wii](https://ouo.io/uEvnxQ)
 
 ![Chibi-Robo!™ PARK PATROL](https://www.mobygames.com/images/covers/l/190695-chibi-robo-park-patrol-nintendo-ds-front-cover.png)
 [►NDS](https://ouo.io/NUZKpu)
