@@ -13,29 +13,20 @@ permalink: https://jeuxsf.github.io/JSF/DLC
 
 [2017►NS](https://ouo.io/8yTRNWQ)
 
-![Cover]()
 []()
 
-![Cover]()
 []()
 
-![Cover]()
 []()
 
-![Cover]()
 []()
 
-![Cover]()
 []()
 
-![Cover]()
 []()
 
-![Cover]()
 []()
 
-![Cover]()
 []()
 
-![Cover]()
 []()
