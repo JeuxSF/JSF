@@ -27,4 +27,4 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/cruisn/
 [►Wii](https://ouo.io/zW66bb8)
 
 ![Cruis'n™ blast](https://www.mobygames.com/images/covers/l/761209-cruis-n-blast-nintendo-switch-front-cover.jpg)
-►ARCADE [►NS]()
+►ARCADE [►NS](https://ouo.io/L871dZ)
