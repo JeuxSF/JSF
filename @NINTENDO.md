@@ -19,6 +19,8 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/
 
 [EXCITEBIKE™](@excitebike.md)
 
+[F-ZERO®](@fzero.md)
+
 [Luigi's Mansion™](@luigimansion.md)
 
 [MARIO](@mario.md)
