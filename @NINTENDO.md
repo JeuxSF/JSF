@@ -27,6 +27,8 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/
 
 [SUPER SMASH BROS.™](@supersmashbros.md)
 
+[Xenoblade Chronicles™](@xenoblade.md)
+
 ![ARMS™](https://www.mobygames.com/images/covers/l/642055-arms-nintendo-switch-front-cover.jpg)
 [►NS](https://ouo.io/5szN2Os)
 
