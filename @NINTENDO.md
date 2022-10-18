@@ -21,6 +21,8 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/
 
 [F-ZERO®](@fzero.md)
 
+[FIRE EMBLEM™](fireemblem.md)
+
 [Luigi's Mansion™](@luigimansion.md)
 
 [MARIO](@mario.md)
