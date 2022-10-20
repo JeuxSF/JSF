@@ -12,9 +12,7 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/fireemblem/
 -->
 
 ![FIRE EMBLEM™ S H A D O W  D R A G O N](https://www.mobygames.com/images/covers/l/701833-fire-emblem-shadow-dragon-the-blade-of-light-nintendo-switch-front-cover.jpg)
-[►NES](https://ouo.io/lGv6Z5) ►Wii ►3DS ►WiiU [►NS](https://ouo.io/kuDPLR)
-
-S H A D O W  D R A G O N [►NDS](https://ouo.io/QFEl7m) ►WiiU
+[►NES](https://ouo.io/lGv6Z5) [►NS](https://ouo.io/kuDPLR) S H A D O W  D R A G O N [►NDS](https://ouo.io/QFEl7m) ►WiiU
 
 ![FIRE EMBLEM™ Echoes –Shadows of Valentia–](https://www.mobygames.com/images/covers/l/500632-fire-emblem-echoes-shadows-of-valentia-nintendo-3ds-front-cover.jpg)
 [►3DS](https://ouo.io/aW07kI) [►NES](https://ouo.io/4XZVdG) ►Wii ►3DS ►WiiU
