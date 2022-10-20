@@ -12,7 +12,8 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/fireemblem/
 -->
 
 ![FIRE EMBLEM™ S H A D O W  D R A G O N](https://www.mobygames.com/images/covers/l/701833-fire-emblem-shadow-dragon-the-blade-of-light-nintendo-switch-front-cover.jpg)
-[►NDS](https://ouo.io/QFEl7m) ►WiiU [►NES](https://ouo.io/lGv6Z5) ►Wii ►3DS ►WiiU [►NS](https://ouo.io/kuDPLR)
+[►NES](https://ouo.io/lGv6Z5) ►Wii ►3DS ►WiiU [►NS](https://ouo.io/kuDPLR)
+S H A D O W  D R A G O N [►NDS](https://ouo.io/QFEl7m) ►WiiU
 
 ![FIRE EMBLEM™ Echoes –Shadows of Valentia–](https://www.mobygames.com/images/covers/l/500632-fire-emblem-echoes-shadows-of-valentia-nintendo-3ds-front-cover.jpg)
 [►3DS](https://ouo.io/aW07kI) [►NES](https://ouo.io/4XZVdG) ►Wii ►3DS ►WiiU
@@ -50,13 +51,13 @@ GENEALOGY OF THE HOLY WAR](https://www.mobygames.com/images/covers/l/704889-fire
 [►3DS](https://ouo.io/eNp5YO)
 
 ![FIRE EMBLEM™ THREE HOUSES](https://www.mobygames.com/images/covers/l/642321-fire-emblem-three-houses-nintendo-switch-front-cover.jpg)
-[►NS]()
+[►NS](https://ouo.io/gx0Jgg)
 
 ![FIRE EMBLEM ––WARRIORS–](https://www.mobygames.com/images/covers/l/642322-fire-emblem-warriors-nintendo-switch-front-cover.jpg)
-[►NS]() [►3DS](https://ouo.io/toRv3j)
+[►NS](https://ouo.io/viSly6M) [►3DS](https://ouo.io/toRv3j)
 
 ![FIRE EMBLEM WARRIORS THREE HOPES](https://www.mobygames.com/images/covers/l/821150-fire-emblem-warriors-three-hopes-nintendo-switch-front-cover.jpg)
-[►NS]()
+[►NS](https://ouo.io/bwL6Vs)
 
 ![TOKYO MIRAGE SESSIONS™ #FE](https://www.mobygames.com/images/covers/l/641281-tokyo-mirage-sessions-fe-encore-nintendo-switch-front-cover.jpg)
 [►WiiU](https://ouo.io/x4CZza) [►NS]()
