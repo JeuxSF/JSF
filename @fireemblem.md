@@ -12,27 +12,27 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/fireemblem/
 -->
 
 ![FIRE EMBLEM™ S H A D O W  D R A G O N](https://www.mobygames.com/images/covers/l/701833-fire-emblem-shadow-dragon-the-blade-of-light-nintendo-switch-front-cover.jpg)
-[►NES](https://ouo.io/lGv6Z5) [►NS](https://ouo.io/kuDPLR) S H A D O W  D R A G O N [►NDS](https://ouo.io/QFEl7m) ►WiiU
+[►NDS](https://ouo.io/QFEl7m) [►NES](https://ouo.io/lGv6Z5) [►NS](https://ouo.io/kuDPLR)
 
 ![FIRE EMBLEM™ Echoes –Shadows of Valentia–](https://www.mobygames.com/images/covers/l/500632-fire-emblem-echoes-shadows-of-valentia-nintendo-3ds-front-cover.jpg)
-[►3DS](https://ouo.io/aW07kI) [►NES](https://ouo.io/4XZVdG) ►Wii ►3DS ►WiiU
+[►3DS](https://ouo.io/aW07kI) [►NES](https://ouo.io/4XZVdG)
 
 ![FIREEMBLEM NEW MYSTERY OF THE EMBLEM 
 HEROES OF LIGHT AND SHADOW](https://ia801705.us.archive.org/34/items/fireemblemnewmysteryoftheemblemheroesoflightandshadow/000_thumbnail.jpeg)
-[►NDS](https://ouo.io/xNDTGmG) [►SNES](https://ouo.io/0x9Awx) ►Wii ►WiiU ►3DS
+[►NDS](https://ouo.io/xNDTGmG) [►SNES](https://ouo.io/0x9Awx)
 
 ![Fire Emblem 
 GENEALOGY OF THE HOLY WAR](https://www.mobygames.com/images/covers/l/704889-fire-emblem-seisen-no-keifu-snes-front-cover.jpg)
-[►SNES](https://ouo.io/OOrZ6U) ►Wii ►WiiU ►3DS
+[►SNES](https://ouo.io/OOrZ6U)
 
 ![Fire Emblem™ Thracia 776](https://www.mobygames.com/images/covers/l/235664-fire-emblem-thracia-776-snes-front-cover.jpg)
-[►SNES](https://ouo.io/wBdL2jb) ►Wii ►WiiU ►3DS
+[►SNES](https://ouo.io/wBdL2jb)
 
 ![FIREEMBLEM THE BINDING BLADE](https://www.mobygames.com/images/covers/l/710095-fire-emblem-fuin-no-tsurugi-game-boy-advance-front-cover.jpg)
-[►GBA](https://1fichier.com/?riyxkpzxmz79dgcpphvq) ►WiiU
+[►GBA](https://1fichier.com/?riyxkpzxmz79dgcpphvq)
 
 ![FIRE EMBLEM™ THE BLAZING BLADE](https://www.mobygames.com/images/covers/l/752764-fire-emblem-game-boy-advance-front-cover.png)
-[►GBA](https://ouo.io/9lp3fam) ►WiiU
+[►GBA](https://ouo.io/9lp3fam)
 
 ![FIRE EMBLEM™ THE SACRED STONES](https://www.mobygames.com/images/covers/l/45736-fire-emblem-the-sacred-stones-game-boy-advance-front-cover.jpg)
 [►GBA](https://ouo.io/ZBfzaqz) [►3DS](https://ouo.io/V3J3ol) [►WiiU](https://ouo.io/08RsiXb)
