@@ -59,4 +59,4 @@ GENEALOGY OF THE HOLY WAR](https://www.mobygames.com/images/covers/l/704889-fire
 [►NS](https://ouo.io/bwL6Vs)
 
 ![TOKYO MIRAGE SESSIONS™ #FE](https://www.mobygames.com/images/covers/l/641281-tokyo-mirage-sessions-fe-encore-nintendo-switch-front-cover.jpg)
-[►WiiU](https://ouo.io/x4CZza) [►NS]()
+[►WiiU](https://ouo.io/x4CZza) [►NS](https://ouo.io/XSpd7D)
