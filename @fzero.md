@@ -15,7 +15,7 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/fzero/
 [►SNES](https://ouo.io/P3l6lM) ►ARCADE [►Wii](https://ouo.io/P3l6lM) [►WiiU](https://ouo.io/ahKNzGM) [►3DS](https://ouo.io/11R08g)
 
 ![F-ZERO®X](https://www.mobygames.com/images/covers/l/6976-f-zero-x-nintendo-64-front-cover.jpg)
-[►N64](https://ouo.io/fPtRZG) [►N64DD]() [►iQue](https://ouo.io/7qbDtH) [►Wii](https://ouo.io/18na8D) [►WiiU](https://ouo.io/h28r5)
+[►N64](https://ouo.io/fPtRZG) [►N64DD]() [►Wii](https://ouo.io/18na8D) [►WiiU](https://ouo.io/h28r5)
 
 ![F-ZERO® MAXIMUM VELOCITY](https://www.mobygames.com/images/covers/l/37385-f-zero-maximum-velocity-game-boy-advance-front-cover.jpg)
 [►GBA](https://ouo.io/VtJfHo) [►3DS](https://ouo.io/58WjG6) [►WiiU](https://ouo.io/1GGKV6)
