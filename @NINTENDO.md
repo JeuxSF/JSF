@@ -27,6 +27,8 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/
 
 [MARIO](@mario.md)
 
+[Splatoon™](@splatoon.md)
+
 [SUPER SMASH BROS.™](@supersmashbros.md)
 
 [Xenoblade Chronicles™](@xenoblade.md)
