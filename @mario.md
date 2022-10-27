@@ -11,7 +11,7 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/mario
 
 -->
 
-[+Rabbids](mario+rabbids.md)
+[+Rabbids](@mario+rabbids.md)
 
 [@&SONIC](@mario&sonic.md)
 
