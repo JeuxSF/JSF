@@ -11,7 +11,7 @@ permalink: https://jeuxsf.github.io/JSF/sega/
 
 -->
 
-[BAYONETTA™](@Bayonetta.md)
+[BAYONETTA™](@bayonetta.md)
 
 ![BAYONETTA™]()
 [►XB360]() [►PS3]() [►WiiU]() [►NS]() [►STEAM]()
