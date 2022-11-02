@@ -33,4 +33,4 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/mariokart/
 [►3DS]()
 
 ![11.0►MARIO KART 8™](https://www.mobygames.com/images/covers/l/669593-mario-kart-8-deluxe-nintendo-switch-front-cover.jpg)
-[►NS]() [►WiiU]()
+[►NS](https://ouo.io/o8REpm) [►WiiU]()
