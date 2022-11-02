@@ -12,19 +12,19 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/mariokart/
 -->
 
 ![SUPER MARIO KART™](https://www.mobygames.com/images/covers/l/68919-super-mario-kart-snes-front-cover.jpg)
-[►SNES]() [►Wii]() [►3DS]() [►WiiU]()
+[►SNES](https://ouo.io/nPZ4Fw) [►Wii](https://ouo.io/ow8H0o) [►3DS](https://ouo.io/wNwSBA) [►WiiU](https://ouo.io/iSdaNM)
 
 ![MARIo KART 64™](https://www.mobygames.com/images/covers/l/7708-mario-kart-64-nintendo-64-front-cover.jpg)
-[►N64](https://ouo.io/SwPEhar) [►Wii]() [►WiiU]()
+[►N64](https://ouo.io/SwPEhar) [►Wii](https://ouo.io/L6wEWI) [►WiiU](https://ouo.io/yoHpTH)
 
 ![MARIo KART™ SUPER CIRCUIT™](https://www.mobygames.com/images/covers/l/22644-mario-kart-super-circuit-game-boy-advance-front-cover.jpg)
-[►GBA](https://ouo.io/NZiEW4) [►3DS]() [►WiiU]()
+[►GBA](https://ouo.io/NZiEW4) [►3DS](https://1fichier.com/?uh2ljhrfaqj50iu90815) [►WiiU](https://ouo.io/pxzZeW)
 
 ![MARIo KART® =Double Dash!!™](https://www.mobygames.com/images/covers/l/170229-mario-kart-double-dash-gamecube-front-cover.jpg)
 [►NGC](https://ouo.io/zPmmwWI)
 
 ![MARIO KART® =DS](https://www.mobygames.com/images/covers/l/171145-mario-kart-ds-nintendo-ds-front-cover.png)
-[►NDS](https://ouo.io/Ql2Lw9) [►WiiU]()
+[►NDS](https://ouo.io/Ql2Lw9) [►WiiU](https://ouo.io/VydWqB)
 
 ![8.00►MARIO KART® Wii #Wii](https://www.mobygames.com/images/covers/l/112127-mario-kart-wii-wii-front-cover.jpg)
 [►Wii](https://ouo.io/uAdiJ8)
