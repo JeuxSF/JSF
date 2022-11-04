@@ -11,20 +11,20 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/papermario/
 
 -->
 
-![1.0►PAPER MARIO™ #N64](https://www.mobygames.com/images/covers/l/9742-paper-mario-nintendo-64-front-cover.jpg)
-[►N64]() [►Wii]() [►WiiU]()
+![PAPER MARIO™ #N64](https://www.mobygames.com/images/covers/l/9742-paper-mario-nintendo-64-front-cover.jpg)
+[►N64](https://ouo.io/vUWSyc) [►Wii](https://ouo.io/O855pW) [►WiiU]()
 
-![2.0►PAPER MARIO™ THE THOUSAND-YEAR DOOR #NGC](https://www.mobygames.com/images/covers/l/37912-paper-mario-the-thousand-year-door-gamecube-front-cover.jpg)
-[►NGC]()
+![PAPER MARIO™ THE THOUSAND-YEAR DOOR #NGC](https://www.mobygames.com/images/covers/l/37912-paper-mario-the-thousand-year-door-gamecube-front-cover.jpg)
+[►NGC](https://ouo.io/BskJzf)
 
-![3.0►SUPER PAPER MARIO™ #Wii](https://www.mobygames.com/images/covers/l/84967-super-paper-mario-wii-front-cover.jpg)
-[►Wii]()
+![SUPER PAPER MARIO™ #Wii](https://www.mobygames.com/images/covers/l/84967-super-paper-mario-wii-front-cover.jpg)
+[►Wii](https://ouo.io/1c3gky)
 
-![4.0►PAPER MARIO™ Sticker Star #3DS](https://www.mobygames.com/images/covers/l/290925-paper-mario-sticker-star-nintendo-3ds-front-cover.jpg)
+![PAPER MARIO™ Sticker Star #3DS](https://www.mobygames.com/images/covers/l/290925-paper-mario-sticker-star-nintendo-3ds-front-cover.jpg)
 [►3DS]()
 
-![5.0►PAPER MARIO™ Color Splash #WiiU](https://www.mobygames.com/images/covers/l/375313-paper-mario-color-splash-wii-u-front-cover.jpg)
+![PAPER MARIO™ Color Splash #WiiU](https://www.mobygames.com/images/covers/l/375313-paper-mario-color-splash-wii-u-front-cover.jpg)
 [►WiiU]()
 
-![6.0►PAPER MARIO™ THE ORIGAMI KING #NS](https://www.mobygames.com/images/covers/l/658134-paper-mario-the-origami-king-nintendo-switch-front-cover.jpg)
-[►NS]()
+![PAPER MARIO™ THE ORIGAMI KING #NS](https://www.mobygames.com/images/covers/l/658134-paper-mario-the-origami-king-nintendo-switch-front-cover.jpg)
+[►NS](https://ouo.io/V8YP1q)
