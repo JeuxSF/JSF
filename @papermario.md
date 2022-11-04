@@ -21,7 +21,7 @@ permalink: https://jeuxsf.github.io/JSF/nintendo/papermario/
 [►Wii](https://ouo.io/1c3gky)
 
 ![PAPER MARIO™ Sticker Star #3DS](https://www.mobygames.com/images/covers/l/290925-paper-mario-sticker-star-nintendo-3ds-front-cover.jpg)
-[►3DS]()
+[►3DS](https://ouo.io/jex8Qk)
 
 ![PAPER MARIO™ Color Splash #WiiU](https://www.mobygames.com/images/covers/l/375313-paper-mario-color-splash-wii-u-front-cover.jpg)
 [►WiiU]()
