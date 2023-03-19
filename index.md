@@ -6,21 +6,21 @@ No platforms. No DRM. Just Jeux!
 
 [@Delisted](https://1fichier.com/dir/gzfmBy24)
 
-[@Handheld]()
+[@Handheld](https://1fichier.com/dir/K61YILR6)
 
 [@JPN]()
 
-[@Ports]()
+[@Ports](https://1fichier.com/dir/9cd3SPsk)
 
-[+►3rd Party]()
+[+►3rd Party](https://1fichier.com/dir/9h7Q8IKD)
 
 [+►IP]()
 
 [+►Nintendo®]()
 
-[+►PlayStation™](@SONY.md)
+[+►PlayStation™]()
 
-[+►Xbox](@XBOX.md)
+[+►Xbox]()
 
 [►Capcom®]()
 
@@ -40,6 +40,6 @@ No platforms. No DRM. Just Jeux!
 
 [Mortal Kombat]()
 
-
+[Resident Evil](https://1fichier.com/dir/XLM9YuV2)
 
 [WWE®](https://1fichier.com/dir/4sapBe9B)
