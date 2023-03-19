@@ -2,7 +2,7 @@ Jeux Sans Frontières
 
 No platforms. No DRM. Just Jeux!
 
-[!!! ez MU !!!](@EZMU.md)
+[PlayJSF](https://1fichier.com/?ohf5uxvsz8gieey32glh)
 
 [@Delisted](https://1fichier.com/dir/gzfmBy24)
 
