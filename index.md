@@ -24,7 +24,7 @@ No platforms. No DRM. Just Jeux!
 
 [►Capcom®]()
 
-[►EA]()
+[►EA](https://1fichier.com/dir/yOGogzVc)
 
 [►Embracer]()
 
