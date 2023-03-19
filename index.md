@@ -4,7 +4,7 @@ No platforms. No DRM. Just Jeux!
 
 [!!! ez MU !!!](@EZMU.md)
 
-[!!! DLC !!!](@DLC.md)
+[@Delisted](https://1fichier.com/dir/gzfmBy24)
 
 [NINTENDO](@NINTENDO.md)
 
