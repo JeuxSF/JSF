@@ -6,12 +6,10 @@ No platforms. No DRM. Just Jeux!
 
 [@Delisted](https://1fichier.com/dir/gzfmBy24)
 
-[NINTENDO](@NINTENDO.md)
+[+►Nintendo®](@NINTENDO.md)
 
-[SEGA](@SEGA.md)
+[+►PlayStation™](@SONY.md)
 
-[SONY](@SONY.md)
-
-[XBOX](@XBOX.md)
+[+►Xbox](@XBOX.md)
 
 [WWE®](https://1fichier.com/dir/4sapBe9B)
