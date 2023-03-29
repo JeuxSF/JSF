@@ -3,7 +3,7 @@ Jeux Sans Frontières
 No platforms. No DRM. Just Jeux!
 
 [PlayJSF](https://1fichier.com/?jov9mhiddicctbxhk7v9)
-  [(Library File Updates)](https://1fichier.com/dir/J3jFKT2d)
+  [(Latest Library Updates)](https://1fichier.com/dir/J3jFKT2d)
 
 [@Delisted](https://1fichier.com/dir/gzfmBy24)
 
