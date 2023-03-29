@@ -4,7 +4,7 @@ No platforms. No DRM. Just Jeux!
 
 [PlayJSF](https://1fichier.com/?jov9mhiddicctbxhk7v9)
   
-  [Update Library Files](https://1fichier.com/dir/J3jFKT2d)
+  [PlayJSF Library Updates](https://1fichier.com/dir/J3jFKT2d)
 
 [@Delisted](https://1fichier.com/dir/gzfmBy24)
 
