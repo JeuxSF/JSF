@@ -9,7 +9,7 @@ No platforms. No DRM. Just Jeux!
 
 [@Handheld](https://1fichier.com/dir/K61YILR6)
 
-[@JPN]()
+[@JPN](https://1fichier.com/dir/JIIThK20)
 
 [@Ports](https://1fichier.com/dir/9cd3SPsk)
 
@@ -17,9 +17,9 @@ No platforms. No DRM. Just Jeux!
 
 [+►IP]()
 
-[+►Nintendo®]()
+[+►Nintendo®](https://1fichier.com/dir/4qEwTjDJ)
 
-[+►PlayStation™]()
+[+►PlayStation™](https://1fichier.com/dir/Jsc776r2)
 
 [+►Xbox]()
 
@@ -39,7 +39,7 @@ No platforms. No DRM. Just Jeux!
 
 [Final Fantasy®]()
 
-[Mortal Kombat]()
+[Mortal Kombat™](https://1fichier.com/dir/e8cmLnlU)
 
 [Resident Evil](https://1fichier.com/dir/XLM9YuV2)
 
