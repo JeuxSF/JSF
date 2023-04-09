@@ -43,12 +43,12 @@ No platforms. No DRM. Just Jeux!
 
 [WWE®](https://1fichier.com/dir/4sapBe9B)
 
-[꞉Nintendo]()
+[꞉Nintendo](https://1fichier.com/dir/TfbUe1oR)
 
-[PlayStation]()
+[PlayStation](https://1fichier.com/dir/IO8eWMQm)
 
-[꞉Sega]()
+[꞉Sega](https://1fichier.com/dir/2pjuc6FY)
 
-[꞉Xbox]()
+[꞉Xbox](https://1fichier.com/dir/iHRVOtg9)
 
-[꞉PC]()
+[꞉PC](https://1fichier.com/dir/zWwzWSgq)
