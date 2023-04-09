@@ -5,13 +5,9 @@ No platforms. No DRM. Just Jeux!
 [PlayJSF](https://1fichier.com/?jov9mhiddicctbxhk7v9)
   [(Latest Library Updates)](https://1fichier.com/dir/J3jFKT2d)
 
-[@Delisted](https://1fichier.com/dir/gzfmBy24)
-
 [@Handheld](https://1fichier.com/dir/K61YILR6)
 
 [@JPN](https://1fichier.com/dir/JIIThK20)
-
-[@Ports](https://1fichier.com/dir/9cd3SPsk)
 
 [+►3rd Party](https://1fichier.com/dir/9h7Q8IKD)
 
@@ -44,3 +40,13 @@ No platforms. No DRM. Just Jeux!
 [Resident Evil](https://1fichier.com/dir/XLM9YuV2)
 
 [WWE®](https://1fichier.com/dir/4sapBe9B)
+
+[꞉Nintendo]()
+
+[PlayStation]()
+
+[꞉Sega]()
+
+[꞉Xbox]()
+
+[꞉PC]()
