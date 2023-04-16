@@ -39,6 +39,8 @@ No platforms. No DRM. Just Jeux!
 
 [Final Fantasy®]()
 
+[Like a Dragon](https://1fichier.com/dir/kDIexJxO)
+
 [Mortal Kombat™](https://1fichier.com/dir/e8cmLnlU)
 
 [Resident Evil](https://1fichier.com/dir/XLM9YuV2)
