@@ -2,7 +2,7 @@
 
 <details>
 <summary>layout: page
-title: "Series"
+title: "JSF"
 permalink: https://jeuxsf.github.io/JSF/series
 
 </details>
@@ -11,16 +11,40 @@ permalink: https://jeuxsf.github.io/JSF/series
 
 -->
 
-[007™ James Bond]()
+[@Handheld](https://1fichier.com/dir/K61YILR6)
 
-[Ace Combat™](https://1fichier.com/dir/eYxTZpYm)
+[@JPN](https://1fichier.com/dir/JIIThK20)
 
-[Final Fantasy®]()
+[+►3rd Party](https://1fichier.com/dir/9h7Q8IKD)
 
-[Like a Dragon](https://1fichier.com/dir/kDIexJxO)
+[+►IP]()
 
-[Mortal Kombat™](https://1fichier.com/dir/e8cmLnlU)
+[+►Nintendo®](https://1fichier.com/dir/4qEwTjDJ)
 
-[Resident Evil](https://1fichier.com/dir/XLM9YuV2)
+[+►PlayStation™](https://1fichier.com/dir/Jsc776r2)
 
-[WWE®](https://1fichier.com/dir/4sapBe9B)
+[+►Xbox]()
+
+[►Capcom®]()
+
+[►EA](https://1fichier.com/dir/yOGogzVc)
+
+[►Embracer]()
+
+[►Koei-Tecmo]()
+
+[►SE]()
+
+[►Sega®]()
+
+[Series](series.md)
+
+[꞉Nintendo](https://1fichier.com/dir/TfbUe1oR)
+
+[PlayStation](https://1fichier.com/dir/IO8eWMQm)
+
+[꞉Sega](https://1fichier.com/dir/2pjuc6FY)
+
+[꞉Xbox](https://1fichier.com/dir/iHRVOtg9)
+
+[꞉PC](https://1fichier.com/dir/zWwzWSgq)
