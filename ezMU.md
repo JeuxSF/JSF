@@ -11,6 +11,6 @@ permalink: https://jeuxsf.github.io/JSF/roms
 
 -->
 
-[switch]()
+[switch](https://1fichier.com/dir/SmKj5ZfN)
 
-[wiiu]()
+[wiiu](https://1fichier.com/dir/3WGe9mDz)
